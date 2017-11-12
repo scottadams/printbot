@@ -7,7 +7,7 @@ In the long term - this project will contain all the logic for the brain that co
 
 This project is loaded with dank tech. It aims to use:
 * Docker for microservices architecture
-* Flask for the main application server
+* Python-Flask for the main application server
 * Elasticsearch for document store and search
 * React for the front-end
 
