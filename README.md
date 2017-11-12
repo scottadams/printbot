@@ -15,4 +15,4 @@ This project is loaded with dank tech. It aims to use:
 1. Clone this repository
 2. [Install docker on your machine](https://docs.docker.com/engine/installation/)
 3. From your local instance of this repo, run `docker-compose build` to build our docker image
-4. Run `docker-compose up` to start our services in docker containers
+4. Run `docker-compose up -d` to start our services in docker containers
